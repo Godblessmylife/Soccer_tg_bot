@@ -1,22 +1,22 @@
 {
-  "name": "soccerhyperchainx",
+  "name": "SoccerHyperchainX",
   "version": "1.0.0",
-  "description": "Soccer X",
+  "description": "",
   "main": "index.js",
-  "scripts":
-    "start": "node index.js"
+  "scripts": {
+  "start": "node index.js"
   },
  "engines": {
          "node": "20.14.0"
  },
-  "author": "",
+  "author": "JohnPro",
   "license": "ISC",
   "dependencies": {
     "node-telegram-bot-api": "^0.63.0"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/Godblessmylife/Soccer_tg_bot.git"
+    "url": "https://github.com/Godblessmylife/Soccer_tg_bot.git"
   },
   "bugs": {
     "url": "https://github.com/Godblessmylife/Soccer_tg_bot/issues"
